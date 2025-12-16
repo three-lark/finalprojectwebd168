@@ -253,7 +253,7 @@ nav {
   border: 0.125rem solid var(--color-black);
   transition: all 0.3s ease;
   flex-shrink: 0;
-  z-index: 9999;
+  z-index: 1;
 
   &:hover {
     transform: translateY(-0.5rem);
