@@ -136,6 +136,7 @@ nav.nav-open .hamburger span:nth-child(3) {
 }
 .hero-lander::before {
   content: "";
+  max-width: 100%;
   position: absolute;
   top: 4rem;
   left: -10%;
